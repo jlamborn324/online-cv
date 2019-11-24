@@ -47,12 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello! My name is Joey Lamborn and I am a second-year Physics student at American University. 
+      I am currently on track to study Computer Science at Columbia University through [American University's
+      Engineering Joint Degree Program](https://www.american.edu/cas/engineering/). 
 education:
     - degree: B.A. in Physics
       university: American University
