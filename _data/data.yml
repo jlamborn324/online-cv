@@ -31,6 +31,9 @@ sidebar:
       - idiom: Italian
         level: Conversational
 
+      # - idiom: 
+      #   level: 
+
     interests:
       - item: Soccer
         link:
@@ -44,23 +47,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Hello! My name is Joey Lamborn and I am a second-year Physics student at American University. 
+      Hello! My name is Joey Lamborn and I am a second-year Physics student at American University. 
       I am currently on track to study Computer Science at Columbia University through [American University's
-      Engineering Joint Degree Program](https://www.american.edu/cas/engineering/). I am looking to find my 
-      path in the world of programing through any means possible, whether it be internships, research, projects, etc. 
+      Engineering Joint Degree Program](https://www.american.edu/cas/engineering/). 
 education:
     - degree: B.A. in Physics
       university: American University
-      time: 2018 - 2021 (Currently Enrolled)
+      time: 2018 - 2021
       details: |
         
+    # - degree: BSc in Applied Mathematics
+    #   university: Bristol University
+    #   time: 2007 - 2011
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 experiences:
   
     - role: Teaching Assistant - CSC-280
       time: August 2019 - Present
       company: American University Dept. of Computer Science
       details: |
-          As a teaching assistant for CSC-280 (Intro to Computer Science I), 
+        As a teaching assistant for CSC-280 (Intro to Computer Science I), 
         I am responsible for reviewing and grading students’ Python code and teaching 
         essential computer science concepts. I am given the opportunity
         to engage one-on-one with students to reinforce concepts taught in class as well as
@@ -71,11 +84,17 @@ experiences:
       time: Summer 2017, Summer 2018
       company: Philadelphia City Council, City of Philadelphia
       details: |
-         As a legislative intern for Councilwoman Blondell Reynolds Brown, I assisted 
-         with legislation proposals, attended policy briefings, and researched specific
-         topics of concern. I came to understand the role of an intern within a team, and 
-         learned key communication skills. 
-         
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
     # - role: UI Developer
     #   time: 2012 - 2014
     #   company: Amazon, London
@@ -136,27 +155,27 @@ experiences:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python 
-        level: 60%
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
 
-      # - name: Javascript & jQuery
-      #   level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      # - name: Angular
-      #   level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 30%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 30%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      # - name: Sketch & Photoshop
-      #   level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
