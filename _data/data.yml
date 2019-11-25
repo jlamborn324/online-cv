@@ -108,7 +108,7 @@ projects:
     assignments:
       - title: slogan-maker
         link: https://github.com/jlamborn324/slogan-maker
-        tagline: "An application that uses social media data files to create slogans that resemble real speech. User can input an acronym, and program will return a realistic slogan if one can be made. "
+        tagline: "An application written in Java that uses social media data files to create slogans that resemble real speech. User can input an acronym, and program will return a realistic slogan if one can be made. "
 
       # - title: DevStudio
       #   link: "#"
