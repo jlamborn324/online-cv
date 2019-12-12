@@ -86,7 +86,7 @@ projects:
         tagline: "An application written in Java that uses social media data files to create slogans that resemble real speech. User can input an acronym, and program will return a realistic slogan if one can be made. "
       - title: Python Data Analysis
         link: https://github.com/jlamborn324/sab-research-python
-        tagline: " Helping a friend analyze data for international relations research. Parsing and analyzing data regarding ethnic enclaves. I used matplotlib and the scipy library for all graphs and statistics. ""
+        tagline: " Helping a friend analyze data for international relations research. Parsing and analyzing data regarding ethnic enclaves. I used matplotlib and the scipy library for all graphs and statistics. "
 
 
 
