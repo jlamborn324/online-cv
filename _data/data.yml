@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Joey Lamborn
-    tagline: Computer Geek 
+    tagline: Computer Geek
     avatar: cropped.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: joeylamborn@gmail.com
-    
+
     linkedin: jlamborn
 
 
@@ -22,7 +22,7 @@ sidebar:
     bitbucket:
     stack-overflow:
     codewars:
-    goodreads: 
+    goodreads:
 
     languages:
       - idiom: English
@@ -35,35 +35,35 @@ sidebar:
       - item: Soccer
         link:
 
-      - item: Guitar 
+      - item: Guitar
         link:
 
-      - item: 
+      - item:
         link:
 
 career-profile:
     title: About me
     summary: |
-      Hello! My name is Joey Lamborn and I am a second-year physics student at American University. 
+      Hello! My name is Joey Lamborn and I am a second-year physics student at American University.
       I am currently on track to study computer science at Columbia University through [American University's
-      Engineering Joint Degree Program](https://www.american.edu/cas/engineering/). 
+      Engineering Joint Degree Program](https://www.american.edu/cas/engineering/).
 education:
     - degree: B.A. in Physics
       university: American University
       time: 2018 - 2021
       details: |
-        
+
 experiences:
-  
+
     - role: Teaching Assistant - CSC-280
       time: August 2019 - Present
       company: American University Dept. of Computer Science
       details: |
-        As a teaching assistant for CSC-280 (Intro to Computer Science I), 
-        I am responsible for reviewing and grading students’ Python code and teaching 
+        As a teaching assistant for CSC-280 (Intro to Computer Science I),
+        I am responsible for reviewing and grading students’ Python code and teaching
         essential computer science concepts. I am given the opportunity
         to engage one-on-one with students to reinforce concepts taught in class as well as
-        debug code. With the opportunity to teach Python, my knowledge of the language has grown 
+        debug code. With the opportunity to teach Python, my knowledge of the language has grown
         exponentially. It's hard to teach something if you don't know it inside and out!
 
     - role: Legislative Intern
@@ -74,23 +74,27 @@ experiences:
         attended policy briefings, researched specific
         topics of concern, and conducted  various administrative duties. I gained a valuable understanding
         of an intern's role in a team, and I learned alot about how to effectively
-        communicatie in a team-setting. 
-        
+        communicatie in a team-setting.
+
 projects:
     title: Projects
     intro: >
-      Here's some of the stuff I've been working on lately! 
+      Here's some of the stuff I've been working on lately!
     assignments:
       - title: slogan-maker
         link: https://github.com/jlamborn324/slogan-maker
         tagline: "An application written in Java that uses social media data files to create slogans that resemble real speech. User can input an acronym, and program will return a realistic slogan if one can be made. "
+      - title: Python Data Analysis
+        link: https://github.com/jlamborn324/sab-research-python
+        tagline: " Helping a friend analyze data for international relations research. Parsing and analyzing data regarding ethnic enclaves. I used matplotlib and the scipy library for all graphs and statistics. ""
+
 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: Python
         level: 60%
 
       - name: Java
@@ -101,6 +105,3 @@ skills:
 
       - name: Git & Github
         level: 75%
-
-    
-
